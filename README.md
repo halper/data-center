@@ -1,1 +1,2 @@
-# data-center
+# ASAGEM Veri Merkezi Eğitimleri
+İşlenen konular Docker, Bash, Git
